@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:util="http://www.springframework.org/schema/util"
+     xmlns:context="http://www.springframework.org/schema/context"
+     xmlns:aop="http://www.springframework.org/schema/aop"
+     xmlns:tx="http://www.springframework.org/schema/tx"
+     xsi:schemaLocation="http://www.springframework.org/schema/beans
+     					 http://www.springframework.org/schema/beans/spring-beans.xsd
+     					 http://www.springframework.org/schema/util 
+     					 http://www.springframework.org/schema/util/spring-util.xsd
+     					 http://www.springframework.org/schema/context 
+     					 http://www.springframework.org/schema/context/spring-context.xsd
+     					 http://www.springframework.org/schema/aop 
+     					 http://www.springframework.org/schema/aop/spring-aop.xsd
+     					 http://www.springframework.org/schema/tx 
+     					 http://www.springframework.org/schema/tx/spring-tx.xsd">
+	<context:property-placeholder location="classpath:database.properties"/>
+
+  	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+  		<property name="driverClass" value="${jdbc.driver}"/>
+  		<property name="jdbcUrl" value="${jdbc.url}"/>
+  		<property name="user" value="${jdbc.username}"/>
+  		<property name="password" value="${jdbc.password}"/>
+  	</bean>
+
+  	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.LocalSessionFactoryBean">
+
+  		<property name="dataSource" ref="dataSource"></property>
+
+  		 <property name="hibernateProperties">
+  			<props>
+  				<prop key="hibernate.format_sql">true</prop><!-- 注意：加hibernate -->
+  				<prop key="hibernate.show_sql">true</prop>
+  				<prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
+  				<prop key="hibernate.current_session_context_class">thread</prop>
+  				<prop key="javax.persistence.validation.mode">none</prop>
+  			</props>
+  		</property>
+
+  		<property name="mappingResources">
+  			<list>
+  				<value>cn/test/entity/AirQualityIndex.hbm.xml</value>
+  				<value>cn/test/entity/District.hbm.xml</value>
+  			</list>
+  		</property>
+
+  	</bean>
+	<!-- 管理Dao  -->
+	<bean id="districtDao" class="cn.test.daoImpl.DistrictDaoImpl">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>
+	<!--service-->
+	<bean id="districtservice" class="cn.test.serviceImpl.DistrictServiceImpl">
+		<property name="districtDao" ref="districtDao"/>
+	</bean>
+	<!-- Action -->
+	<bean id="districtAction" class="cn.test.action.DistrictAction">
+		<property name="districtservice" ref="districtservice"/>
+	</bean>
+</beans>

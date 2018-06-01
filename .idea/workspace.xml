@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AirQuality:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aef8470c-13a6-4b73-8c85-64addeb61935" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/action/DistrictAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/dao/AirQualityIndexDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/dao/DistrictDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/daoImpl/AirQualityIndexDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/daoImpl/DistrictDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/entity/AirQualityIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/entity/AirQualityIndex.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/entity/District.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/entity/District.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/service/DistrictService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/serviceImpl/DistrictServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/cn/test/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/antlr-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/asm-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/asm-commons-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/asm-tree-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/aspectjweaver-1.8.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/commons-lang3-3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/freemarker-2.3.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/hibernate-core-3.3.2.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/javassist-3.11.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/log4j-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/log4j-core-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/log4j-web-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/mysql-connector-java-5.1.42.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/ognl-3.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-tx-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/struts2-core-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/struts2-spring-plugin-2.5.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/lib/xwork-core-2.3.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AirQuality/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/action/DistrictAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/dao/AirQualityIndexDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/dao/DistrictDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/daoImpl/AirQualityIndexDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/daoImpl/DistrictDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/entity/AirQualityIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/entity/AirQualityIndex.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/entity/District.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/entity/District.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/service/DistrictService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/serviceImpl/DistrictServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/struts.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AirQuality">
+      <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/impl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/impl/StrutsActionProxy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/impl/StrutsObjectFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/impl/StrutsActionProxyFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/impl/PrefixBasedActionProxyFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/fs" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/fs/JBossFileManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/Timer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/Counter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/URLBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ListEntry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/PrefixTrie.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/StrutsUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/TabbedPane.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ContainUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/TokenHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/AttributeMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/MakeIterator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/DateFormatter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ComponentUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/IteratorGenerator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ContentTypeMatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/SortIteratorFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/TextProviderHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/VelocityStrutsUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/MergeIteratorFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/RegexPatternMatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ServletContextAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/StrutsTypeConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/AppendIteratorFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/StrutsTestCaseHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/SubsetIteratorFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/IteratorFilterSupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/InvocationSessionStore.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/ObjectFactoryDestroyable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/DefaultContentTypeMatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/FastByteArrayOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/util/RegexPatternMatcherExpression.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/table" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/DivTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/FileTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/FormTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/HeadTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/DebugTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/LabelTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/OgnlTool.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/RadioTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/ResetTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/TokenTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AnchorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/HiddenTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/SelectTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/SubmitTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/CheckboxTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/ComboBoxTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/OptGroupTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/PasswordTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/TextareaTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/ComponentTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/TextFieldTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractUITag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/FieldErrorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/ActionErrorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractListTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/CheckboxListTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/DoubleSelectTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/UpDownSelectTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/ActionMessageTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/DateTextFieldTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractClosingTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractDoubleListTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractUITagBeanInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/InputTransferSelectTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/AbstractRequiredListTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ui/OptionTransferSelectTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator/SortIteratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator/MergeIteratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator/AppendIteratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator/SubsetIteratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/iterator/IteratorGeneratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/IfTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/SetTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/URLTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/BeanTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/DateTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ElseTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/I18nTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/PushTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/TextTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ParamTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/TagUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ActionTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ElseIfTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/NumberTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/IncludeTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/IteratorTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/PropertyTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ContextBeanTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/IteratorStatus.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/ComponentTagSupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/jsp/StrutsBodyTagSupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/util/UrlHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/util/ContextUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/util/ResourceUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/util/DefaultUrlHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/MapAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/XSLTResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/AdapterNode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/BeanAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ArrayAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/StringAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/AdapterFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/SimpleNodeList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/SimpleTextNode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ProxyAttrAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ProxyNodeAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/CollectionAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ProxyNamedNodeMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ServletURIResolver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/AbstractAdapterNode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ProxyElementAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/ProxyTextNodeAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/SimpleAdapterDocument.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/xslt/AbstractAdapterElement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/DivDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/SetDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/URLDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/BeanDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/DateDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/FileDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/FormDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/HeadDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/I18nDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/PushDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/TextDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/LabelDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ParamDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/RadioDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ResetDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/TokenDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ActionDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/AnchorDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/HiddenDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/SelectDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/SubmitDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/IncludeDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/AbstractDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/CheckBoxDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ComboBoxDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/OptGroupDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/PasswordDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/PropertyDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/TextAreaDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ComponentDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/TextFieldDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/FieldErrorDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ActionErrorDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/CheckBoxListDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/DoubleSelectDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/UpDownSelectDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/ActionMessageDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/InputTransferSelectDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/components/OptionTransferSelectDirective.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/VelocityManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/StrutsResourceLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/velocity/StrutsVelocityContext.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/IfModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/DivModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/SetModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/TagModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/URLModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/BeanModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/DateModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ElseModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/FileModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/FormModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/HeadModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/I18nModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/PushModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/TextModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/LabelModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ParamModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/RadioModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ResetModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/TokenModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ActionModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/AnchorModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ElseIfModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/HiddenModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/SelectModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/SubmitModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/IncludeModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/StrutsModels.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/CheckboxModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ComboBoxModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/IteratorModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/OptGroupModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/PasswordModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/PropertyModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/TextAreaModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/CallbackWriter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ComponentModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/TextFieldModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/FieldErrorModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ActionErrorModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/CheckboxListModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/DoubleSelectModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/UpDownSelectModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/ActionMessageModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/InputTransferSelectModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/tags/OptionTransferSelectModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/ScopesHashModel.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/FreemarkerResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/FreemarkerManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/StrutsBeanWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/StrutsClassTemplateLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/freemarker/FreemarkerThemeTemplateLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/annotations" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/annotations/StrutsTag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/annotations/StrutsTagAttribute.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/annotations/StrutsTagSkipInheritance.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/TagLibrary.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/DefaultTagLibrary.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/JspSupportServlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/TagLibraryModelProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/views/TagLibraryDirectiveProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/Settings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/NullResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/DefaultSettings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/DelegatingSettings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/PropertiesSettings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/ServletContextSingleton.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/DefaultPropertiesProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/DefaultBeanSelectionProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/AbstractBeanSelectionProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/StrutsXmlConfigurationProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/config/PropertiesConfigurationProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/domTT.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/utils.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/domTT.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/tooltip.gif" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/inputtransferselect.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/static/optiontransferselect.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/factory" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/factory/StrutsResultFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/servlet" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/servlet/interceptor" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/servlet/interceptor/ServletPrincipalProxy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/If.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/Template.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/TemplateEngine.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/JspTemplateEngine.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/BaseTemplateEngine.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/TemplateEngineManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/VelocityTemplateEngine.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/FreemarkerTemplateEngine.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/template/TemplateRenderingContext.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Div.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Set.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/URL.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Bean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Date.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Else.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/File.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Form.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Head.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/I18n.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Push.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Text.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Debug.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Label.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Param.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Radio.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Reset.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Token.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Anchor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ElseIf.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Hidden.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Number.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Select.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Submit.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/UIBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Include.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Checkbox.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ComboBox.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/OptGroup.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Password.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Property.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/TextArea.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/Component.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/TextField.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/FieldError.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/FormButton.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ListUIBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ActionError.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ContextBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/UrlProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/UrlRenderer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/CheckboxList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/DoubleSelect.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/UpDownSelect.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ActionMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ClosingUIBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/DateTextField.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/GenericUIBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/MergeIterator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/AppendIterator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ActionComponent.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/DoubleListUIBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/IteratorComponent.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ServletUrlRenderer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/InputTransferSelect.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ComponentUrlProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/OptionTransferSelect.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/components/ExtraParameterProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/filter" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/filter/FilterHostConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/filter/StrutsExecuteFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/filter/StrutsPrepareFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/filter/StrutsPrepareAndExecuteFilter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/servlet" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/servlet/StrutsServlet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/servlet/ServletHostConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/listener" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/listener/StrutsListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/listener/ListenerHostConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/HostConfig.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/InitOperations.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/ExecuteOperations.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ng/PrepareOperations.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/ActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/ActionMapping.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/ParameterAction.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/DefaultActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/RestfulActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/Restful2ActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/CompositeActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/mapper/PrefixBasedActionMapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/error.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/multipart" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/multipart/MultiPartRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/multipart/JakartaMultiPartRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/multipart/MultiPartRequestWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/multipart/JakartaStreamMultiPartRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/Dispatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/RequestMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/SessionMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/StreamResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ApplicationMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/PostbackResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/VelocityResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ContainerHolder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/PlainTextResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/FilterDispatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/HttpHeaderResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/DispatcherListener.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/StaticContentLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/StrutsResultSupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ActionContextCleanUp.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/DefaultActionSupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/StrutsRequestWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ServletRedirectResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/DispatcherErrorHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ServletDispatcherResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/DefaultStaticContentLoader.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/ServletActionRedirectResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/DefaultDispatcherErrorHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/dispatcher/FilterDispatcherCompatWeblogic61.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/wait.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/browser.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/console.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/webconsole.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/webconsole.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/webconsole.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/PrettyPrintWriter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/ObjectToHTMLWriter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/debugging/DebuggingInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/validation" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/validation/SkipValidation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/validation/AnnotationValidationInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CookiesAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/NoParameters.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/RequestAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/SessionAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CookieProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ParameterAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/PrincipalAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/PrincipalProxy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/I18nInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ApplicationAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/RolesInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ScopeInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/TokenInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/BackgroundProcess.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CookieInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CheckboxInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ServletRequestAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ServletResponseAware.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/FileUploadInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/DeprecationInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/MultiselectInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ClearSessionInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/MessageStoreInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CreateSessionInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/DateTextFieldInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ServletConfigInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/CookieProviderInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ExecuteAndWaitInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/TokenSessionStoreInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ProfilingActivationInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/StrutsConversionErrorInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/interceptor/ActionMappingParametersInteceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/RequestUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/default.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/StrutsStatics.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/StrutsConstants.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/StrutsException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/ServletActionContext.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages_da.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages_de.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages_en.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages_pl.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/org/apache/struts2/struts-messages_pt.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/maven" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/maven/org.apache.struts" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/maven/org.apache.struts/struts2-core" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/maven/org.apache.struts/struts2-core/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/maven/org.apache.struts/struts2-core/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/NOTICE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/LICENSE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/README.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/DEPENDENCIES" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/META-INF/struts-tags.tld" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/file.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/form.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/head.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/text.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/label.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/reset.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/hidden.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/select.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/styles.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/submit.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/control.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/tooltip.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/checkbox.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/combobox.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/datetext.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/password.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/radiomap.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/textarea.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/validation.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/form-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/checkboxlist.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/doubleselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/submit-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/theme.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/updownselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/control-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/controlfooter.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/controlheader.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/form-validate.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/controlheader-core.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/form-close-validate.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/inputtransferselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/xhtml/optiontransferselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/a.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/css.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/div.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/file.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/form.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/head.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/text.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/debug.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/empty.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/label.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/reset.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/table.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/token.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/hidden.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/select.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/submit.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/a-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/checkbox.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/combobox.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/datetext.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/optgroup.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/password.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/radiomap.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/textarea.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/div-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/fielderror.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/form-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/actionerror.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/form-common.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/checkboxlist.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/doubleselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/submit-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/updownselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/actionmessage.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/controlfooter.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/controlheader.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/scripting-events.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/common-attributes.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/dynamic-attributes.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/inputtransferselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/simple/optiontransferselect.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/a.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/div.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/tab.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/form.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/submit.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/a-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/div-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/tab-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/ajax/form-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/file.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/form.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/text.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/debug.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/empty.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/label.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/table.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/token.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/hidden.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/select.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/submit.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/checkbox.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/combobox.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/password.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/radiomap.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/textarea.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/form-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/checkboxlist.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/doubleselect.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/controlfooter.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/xhtml/controlheader.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/file.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/form.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/text.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/debug.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/empty.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/label.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/table.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/token.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/hidden.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/select.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/submit.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/checkbox.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/combobox.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/password.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/radiomap.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/textarea.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/form-close.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/checkboxlist.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/doubleselect.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/archive/simple/scripting-events.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/head.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/label.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/reset.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/hidden.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/styles.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/submit.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/control.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/checkbox.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/validation.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/submit-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/theme.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/control-close.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/controlfooter.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/controlheader.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/form-validate.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/template/css_xhtml/controlheader-core.ftl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts.vm" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/NOTICE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/overview.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts-2.0.dtd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts-2.1.dtd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts-2.3.dtd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/OGNL-LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts-2.1.7.dtd" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/XWORK-LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/struts-default.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://D:/java/jar/lib/struts2-core-2.3.24.jar!/FREEMARKER-LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/config/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistrictAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/action/DistrictAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/hello.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/config/struts.xml">
+          <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>struts</find>
+      <find>log4j</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/Test.jsp" />
+        <option value="$PROJECT_DIR$/AirQuality.iml" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/air/dao/TEst.http" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/dapImpl/AirQualityIndexDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/dao/AirQualityIndexDao.java" />
+        <option value="$PROJECT_DIR$/src/main/config/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/entity/AirQualityIndexEntity.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/dapImpl/DistrictDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/entity/AirQualityIndex.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/entity/District.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/service/DistrictService.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/dao/DistrictDao.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/serviceImpl/DistrictServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/daoImpl/DistrictDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/entity/District.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/config/struts.xml" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/action/HttpServletRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/src/cn/test/action/DistrictAction.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hello.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\repository" />
+        <option name="mavenHome" value="D:/java/maven" />
+        <option name="userSettingsFile" value="D:\java\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AirQuality Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirQuality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirQuality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="e3a7c04e-aec3-474b-91a7-cf6d8dd70863" />
+    <property name="SearchEverywhereHistoryKey" value="project structure&#9;ACTION&#9;ShowProjectStructureSettings&#10;aopalliance&#9;FILE&#9;jar://D:/java/repository/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar!/org/aopalliance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27701148" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jh\IdeaProjects\AirQuality\src\main" />
+      <recent name="C:\Users\jh\IdeaProjects\AirQuality\src\main\src\cn\test" />
+      <recent name="C:\Users\jh\IdeaProjects\AirQuality\src\main\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.test.action" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="cn.test.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jh\IdeaProjects\AirQuality\src\main\webapp\WEB-INF\lib" />
+      <recent name="C:\Users\jh\IdeaProjects\AirQuality\src\main\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.test.test.Test" />
+      <module name="AirQuality" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.70" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="AirQuality:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_AirQuality_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59660" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AirQuality:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef8470c-13a6-4b73-8c85-64addeb61935" name="Default" comment="" />
+      <created>1527814058391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527814058391</updated>
+      <workItem from="1527814060313" duration="467000" />
+      <workItem from="1527814535183" duration="8854000" />
+      <workItem from="1527833221834" duration="1287000" />
+      <workItem from="1527834519006" duration="4584000" />
+      <workItem from="1527841631237" duration="1036000" />
+      <workItem from="1527842809175" duration="3373000" />
+      <workItem from="1527846207335" duration="6084000" />
+      <workItem from="1527864847179" duration="1801000" />
+      <workItem from="1527866740851" duration="866000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试一个简单的ssh  Demo">
+      <created>1527865361583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527865361583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28352000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5004042" side_tool="true" weight="0.32899627" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.4995958" weight="0.32899627" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32983023" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.26596606" />
+      <window_info id="Structure" order="1" sideWeight="0.5041551" side_tool="true" weight="0.20210186" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.2992565" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32899627" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899627" />
+      <window_info id="Persistence" order="7" sideWeight="0.5041551" side_tool="true" weight="0.20210186" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49584487" visible="true" weight="0.19805983" />
+      <window_info id="Web" order="6" sideWeight="0.5037175" side_tool="true" weight="0.20210186" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.5037175" side_tool="true" weight="0.20210186" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32774675" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32899627" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试一个简单的ssh  Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试一个简单的ssh  Demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/daoImpl/DistrictDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/hibernate.cfg.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/dao/AirQualityIndexDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/daoImpl/AirQualityIndexDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirQuality.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Test.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/air/dao/TEst.http" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e3a7c04e-aec3-474b-91a7-cf6d8dd70863/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://e3a7c04e-aec3-474b-91a7-cf6d8dd70863/schema/test/table/air_quality_index">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3a7c04e-aec3-474b-91a7-cf6d8dd70863/schema/test/table/district">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/District.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://MAVEN/com.jh:AirQuality:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.jh:AirQuality:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.jh:AirQuality:1.0-SNAPSHOT</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">jstl:jstl:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-core:jar:4.2.5.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-aop:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-aop:jar:4.2.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-beans:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-context:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-web:jar:4.2.5.RELEASE/org.springframework:spring-context:jar:4.2.5.RELEASE/org.springframework:spring-expression:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.2.5.RELEASE/org.springframework:spring-jdbc:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:4.2.5.RELEASE/org.springframework:spring-tx:jar:4.2.5.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/antlr:antlr:jar:2.7.2</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-beanutils:commons-beanutils:jar:1.7.0/commons-logging:commons-logging:jar:1.0.3</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-chain:commons-chain:jar:1.1</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-chain:commons-chain:jar:1.1/commons-digester:commons-digester:jar:1.6</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-chain:commons-chain:jar:1.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-digester:commons-digester:jar:1.8</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-digester:commons-digester:jar:1.8/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-validator:commons-validator:jar:1.3.1</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-validator:commons-validator:jar:1.3.1/commons-digester:commons-digester:jar:1.8</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/commons-validator:commons-validator:jar:1.3.1/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.struts:struts-core:jar:1.3.8/oro:oro:jar:2.0.8</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.springframework:spring-beans:jar:4.1.6.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.springframework:spring-core:jar:4.1.6.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.springframework:spring-context:jar:4.1.6.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.springframework:spring-web:jar:4.1.6.RELEASE</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.commons:commons-lang3:jar:3.4</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/org.freemarker:freemarker:jar:2.3.23</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/ognl:ognl:jar:3.1.12</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/ognl:ognl:jar:3.1.12/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/org.apache.logging.log4j:log4j-api:jar:2.7</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/commons-fileupload:commons-fileupload:jar:1.3.2</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/commons-fileupload:commons-fileupload:jar:1.3.2/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">org.apache.struts:struts2-spring-plugin:jar:2.5.10.1/org.apache.struts:struts2-core:jar:2.5.10.1/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.jboss.logging:jboss-logging:jar:3.1.0.GA</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.1.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.2.Final</node>
+            <node x="" y="">org.hibernate:hibernate-core:jar:4.2.21.Final/org.hibernate.common:hibernate-commons-annotations:jar:4.0.2.Final/org.jboss.logging:jboss-logging:jar:3.1.0.CR2</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.42</node>
+            <node x="" y="">com.mchange:c3p0:jar:0.9.5.2</node>
+            <node x="" y="">com.mchange:c3p0:jar:0.9.5.2/com.mchange:mchange-commons-java:jar:0.2.11</node>
+            <node x="" y="">org.aspectj:aspectjweaver:jar:1.8.10</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.21</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.21/org.slf4j:slf4j-api:jar:1.7.21</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.21/log4j:log4j:jar:1.2.17</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6674722775092408" x="1800.0" y="346.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/AirQualityIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/AirQualityIndex.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/AirQualityIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/service/DistrictService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/serviceImpl/DistrictServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/daoImpl/AirQualityIndexDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/District.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AirQuality.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/runConfigurations/tomcat.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/dao/AirQualityIndexDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/dao/DistrictDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.0.RELEASE/spring-orm-3.2.0.RELEASE.jar!/org/springframework/orm/hibernate3/LocalSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/entity/District.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/hibernate.cfg.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/daoImpl/DistrictDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/action/HttpServletRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/cn/test/action/DistrictAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AirQuality:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate (AirQuality)|Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AirQuality</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.transaction:jta:1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

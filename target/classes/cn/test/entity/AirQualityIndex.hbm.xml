@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="cn.test.entity.AirQualityIndex" table="air_quality_index" schema="test">
+        <id name="id" column="id"/>
+        <property name="districtId" column="district_id"/>
+        <property name="monitorTime" column="monitor_time"/>
+        <property name="pm10" column="pm10"/>
+        <property name="pm25" column="pm2.5"/>
+        <property name="monitoringStation" column="monitoring_station"/>
+        <property name="lastModifyTime" column="last_modify_time"/>
+    </class>
+</hibernate-mapping>
